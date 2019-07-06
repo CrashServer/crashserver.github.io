@@ -144,9 +144,11 @@ ul.social-icons {
     color: #fff;
     text-decoration: none;
 }
+
 .fab {
 font-size: 25px;
 }  
+
 .fa-mastodon {
     padding:20px 24px;
     -o-transition:.5s;
